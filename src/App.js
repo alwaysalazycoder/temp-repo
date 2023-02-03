@@ -19,6 +19,7 @@ const App= () => {
         <div>Geolocation is not enabled</div>
     ) : coords ? (
         <table>
+          
             <tbody>
                 <tr>
                     <td>latitude</td>
